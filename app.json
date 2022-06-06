@@ -1,0 +1,16 @@
+{
+  "name": "les0606",
+  "description": "Deploy les0606",
+  "keywords": [
+    "les0606"
+  ],
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "0def6a42-7d20-4234-ae68-8a60d8b7359d"
+    }
+  },
+  "website": "https://github.com/goodkis6/les0606",
+  "repository": "https://github.com/goodkis6/les0606",
+  "stack": "container"
+}
